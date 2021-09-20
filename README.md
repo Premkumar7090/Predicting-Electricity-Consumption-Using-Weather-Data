@@ -75,14 +75,14 @@ I hope that this project inspires more researchers to try to estimate the future
 
 
 
-### Repository Structure
 
-```
-├── Images
-├── 1. EDA.ipynb
-├── 2. VAR.ipynb
-├── 3. LSTM.ipynb
-├── EnergyDemand.pdf
-└── README.md
-```
+
+
+
+
+
+
+
+
+
 

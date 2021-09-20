@@ -1,6 +1,6 @@
 # New York City Energy Demand
 
-![0](./Images/solar.jpg)
+![0](solar.jpg)
 Photo courtesy of Mark Lennihan/AP
 
 **By: Prem Kumar**
